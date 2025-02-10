@@ -1,0 +1,3 @@
+101,Smartphone,699.99
+102,Laptop,999.99
+103,Headphones,149.99
